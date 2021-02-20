@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-### Chapter 11
+### 第11章
 
 # AdGuard VPN
 
-This section describes the AdGuard VPN service.
+本章介绍AdGuard VPN服务。
