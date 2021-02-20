@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-### Chapter 2
+### 第2章
 
 # AdGuard for Windows
 
-This section describes AdGuard for Microsoft Windows operating system.
+本章介绍了适用于Microsoft Windows操作系统的AdGuard。
